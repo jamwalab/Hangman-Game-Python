@@ -65,7 +65,7 @@ def stages(x):
     ]
     return pic[x]
 #txt file select where all words are stored
-texfile = './wordlist.txt'
+texfile = './assets/wordlist.txt'
 #random word selected
 theword = wordgen(texfile)
 #print(theword)
